@@ -92,3 +92,33 @@
 2025-12-11 15:35:56 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
 2025-12-11 15:36:04 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
 2025-12-11 15:36:05 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
+2025-12-11 20:28:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\master.xml
+
+2025-12-11 20:28:53 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-11 20:28:54 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-11 20:29:02 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-11 20:29:04 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
+2025-12-11 20:33:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\master.xml
+
+2025-12-11 20:33:56 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-11 20:33:56 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-11 20:34:06 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-11 20:34:07 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
+2025-12-11 20:46:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\gridDocker.xml
+
+2025-12-11 20:47:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\gridDocker.xml
+
+2025-12-11 20:52:40 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-11 20:52:41 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-11 20:53:26 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-11 20:53:27 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-11 20:53:34 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-11 20:53:36 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
+2025-12-11 21:03:10 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-11 21:03:11 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-11 21:03:20 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-11 21:03:21 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****

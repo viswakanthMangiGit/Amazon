@@ -8,19 +8,6 @@
     <parameter name="os" value="linux"/>
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="testCases.TC_001_AccountRegistrationTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-          <include name="verify_account_registration"/>
-        </methods>
-      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
-    </classes>
-  </test> <!-- Linux-Firefox(failed) -->
-  <test thread-count="5" name="Linux-Chrome(failed)">
-    <parameter name="os" value="linux"/>
-    <parameter name="browser" value="chrome"/>
-    <classes>
       <class name="testCases.TC_002_LoginTest">
         <methods>
           <include name="tearDown"/>
@@ -36,5 +23,5 @@
         </methods>
       </class> <!-- testCases.TC_001_AccountRegistrationTest -->
     </classes>
-  </test> <!-- Linux-Chrome(failed) -->
+  </test> <!-- Linux-Firefox(failed) -->
 </suite> <!-- Failed suite [Suite] -->
