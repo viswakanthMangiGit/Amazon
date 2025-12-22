@@ -1,14 +1,29 @@
-2025-12-17 11:14:59 INFO  Utils:112 - [TestNG] Running:
-  C:\Automation\SeleniumWebdriver\AmazonV30.2\master.xml
+2025-12-19 13:35:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\crossbrowsing.xml
 
-2025-12-17 11:15:04 INFO  TC_004_ProductSearch:14 -  Starting TC_004_SearchProductTest 
-2025-12-17 11:15:05 INFO  TC_004_ProductSearch:34 -  Finished TC_004_SearchProductTest 
-2025-12-17 11:22:28 INFO  Utils:112 - [TestNG] Running:
-  C:\Automation\SeleniumWebdriver\AmazonV30.2\master.xml
+2025-12-19 13:35:30 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:35:30 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:54:29 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\Parllel.xml
 
-2025-12-17 11:22:30 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
-2025-12-17 11:22:31 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
-2025-12-17 11:22:37 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
-2025-12-17 11:22:38 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
-2025-12-17 11:22:42 INFO  TC_004_ProductSearch:14 -  Starting TC_004_SearchProductTest 
-2025-12-17 11:22:43 INFO  TC_004_ProductSearch:34 -  Finished TC_004_SearchProductTest 
+2025-12-19 13:54:40 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-19 13:54:40 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:56:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\Parllel.xml
+
+2025-12-19 13:56:20 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:56:21 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
+2025-12-19 13:56:29 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-19 13:56:31 INFO  TC_002_LoginTest:36 - **** Finished TC_002_LoginTest  ****
+2025-12-19 13:56:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\Parllel.xml
+
+2025-12-19 13:57:03 INFO  TC_002_LoginTest:16 - ************TC_002_Login started*********
+2025-12-19 13:57:03 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:59:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\SeleniumWebdriver\AmazonV30.2\crossbrowsing.xml
+
+2025-12-19 13:59:19 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:59:19 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:59:26 INFO  TC_001_AccountRegistrationTest:14 - ********HomePage Test Started**********
+2025-12-19 13:59:27 INFO  TC_001_AccountRegistrationTest:21 - ********RegisterPage Test Started**********
